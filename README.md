@@ -8,9 +8,9 @@ Atualmente atuo na área de merchandising e estou migrando para o desenvolviment
 
 ## 🔧 Principais Tecnologias
 
-- Linguagens de programação: 
-Main: JavaScript
-Secundary: Dart
+Linguagens de programação: 
+- Main: JavaScript
+- Secundary: Dart
 
 ## 🚀 Cursos em Andamento
 
