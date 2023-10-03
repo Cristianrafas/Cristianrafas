@@ -21,8 +21,8 @@ Término: 19/09/2024
 ## 🌱 Interesses
 
 Eu amo lidar com números, gostaria de trabalhar em banco, na área de programação e projetos pois adoro melhorar processos e usar a criatividade!
-Pretendo me especializar em desenvolvimento Web(JavaScript) e Mobile(Flutter) e entrar em projetos interessantes
-Também, gostaria de atuar em projetos sociais para ajudar pessoas e empresas a crescerem
+Pretendo me especializar em desenvolvimento Web(JavaScript) e Mobile(Flutter) e entrar em projetos interessantes.
+Também, gostaria de atuar em projetos sociais para ajudar pessoas e empresas a crescerem!
 
 ## 📫 Onde Me Encontrar
 Se você quiser entrar em contato comigo, sinta-se à vontade para me alcançar através das seguintes redes:
