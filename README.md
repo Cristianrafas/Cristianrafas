@@ -10,7 +10,7 @@ Atualmente atuo na área de merchandising e estou migrando para o desenvolviment
 
 Linguagens de programação: 
 - Main: JavaScript
-- Secundary: Dart
+- Secondary: Dart
 
 ## 🚀 Cursos em Andamento
 
