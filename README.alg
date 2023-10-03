@@ -2,11 +2,11 @@
 
 Bem-vindo ao meu perfil do GitHub. Sou um Desenvolvedor Full Stack apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará uma visão geral dos meus projetos, interesses e muito mais!
 
-## 💼 Experiência
+💼 ## Experiência
 
 Atualmente atuo na área de merchandising e estou migrando para o desenvolvimento Web
 
-## 🔧 Principais Tecnologias
+## Principais Tecnologias 🔧
 
 - Linguagens de programação: 
 Main: JavaScript
@@ -28,7 +28,7 @@ Também, gostaria de atuar em projetos sociais para ajudar pessoas e empresas a 
 Se você quiser entrar em contato comigo, sinta-se à vontade para me alcançar através das seguintes redes:
 📧 Email: cristianrafas@gmail.com
 📱 Telefone: (51)998650539
-🌐 LinkedIn: https://www.linkedin.com/in/cristian-silva-web/
+🌐 LinkedIn: <a https://www.linkedin.com/in/cristian-silva-web/>
 
 ## 🙏 Agradecimentos
 
