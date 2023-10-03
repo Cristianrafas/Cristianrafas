@@ -25,7 +25,7 @@ Pretendo me especializar em desenvolvimento Web(JavaScript) e Mobile(Flutter) e 
 Também, gostaria de atuar em projetos sociais para ajudar pessoas e empresas a crescerem!
 
 ## 📫 Onde Me Encontrar
-Se você quiser entrar em contato comigo, sinta-se à vontade para me alcançar através das seguintes redes:
+Entre em contato comigo nas seguintes redes:
 - 📧 Email: cristianrafas@gmail.com
 - 📱 Telefone: (51)998650539
 - 🌐 LinkedIn: https://www.linkedin.com/in/cristian-silva-web/
