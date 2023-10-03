@@ -26,9 +26,9 @@ Também, gostaria de atuar em projetos sociais para ajudar pessoas e empresas a 
 
 ## 📫 Onde Me Encontrar
 Se você quiser entrar em contato comigo, sinta-se à vontade para me alcançar através das seguintes redes:
-📧 Email: cristianrafas@gmail.com
+<br>📧 Email: cristianrafas@gmail.com
 📱 Telefone: (51)998650539
-🌐 LinkedIn: <a https://www.linkedin.com/in/cristian-silva-web/>
+🌐 LinkedIn: https://www.linkedin.com/in/cristian-silva-web/
 
 ## 🙏 Agradecimentos
 
